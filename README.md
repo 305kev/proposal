@@ -22,7 +22,7 @@ There has been a recent acknowledgement in media psychology that morality exists
 >According to Haidt and Joseph’s (2007) moral foundations theory, judgments are based on five motivational foundations, labeled as follows: Care is concerned with feeling and disliking the pain of others; fairness is related to reciprocity, equality, and proportionality; ingroup loyalty relates to our tribal history as a species, and underlies ingroup biases and feelings of community; authority is about respecting dominance hierarchies, traditions, and high-status individuals; and purity is concerned with contamination—physical and metaphysical—and endeavoring to live in a more noble manner (Graham, Haidt, & Nosek, 2009).
 
 
->CATEGORIES OF WORDS ASSOCIATED WITH MORAL CHOICES (see dictionary_of_moral_words_by_category in repository for full list)
+WORDS ASSOCIATED WITH MORAL CHOICES (grouped by category, see ```dictionary_of_moral_words_by_category.txt``` in repository for full list)
 - 01                    HarmVirtue - ex. safe*, peace*, compassion*, empath*, sympath*, care		
 - 02                    HarmVice - ex. harm*, suffer*, war
 - 03                    FairnessVirtue - ex. fair, fairness, fairplay, equal*, justice	

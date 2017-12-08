@@ -56,9 +56,9 @@ Next steps:
  
 
 Data acquired:
-- Metadata on TED Talks from 2002 to 2017 with preliminary text analysis of transcript ```TED_Talks_by_ID_plus-transcripts.csv```
+- Metadata on TED Talks from 2002 to 2017 with preliminary text analysis of transcript (```TED_Talks_by_ID_plus-transcripts.csv```)
 - Classification of talks by users as persuasive, inspiring, etc. ('ratings' column in ```ted_main.csv```)
-- Transcripts of talks
+- Transcripts of talks (```transcripts.csv```)
 
 
 ## 2. CHANGES IN MORAL CONCERNS OVER TIME AND LINGUISTIC FEATURES OF THE GREATEST FILMS OF ALL TIME

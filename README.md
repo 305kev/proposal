@@ -117,7 +117,7 @@ Next steps:
 - Use existing list of 30,000 movie poster URLs (example: https://image.tmdb.org/t/p/w440_and_h660_bestv2/6ksm1sjKMFLbO7UY2i6G1ju9SML.jpg) to save to file the jpgs of movie posters (for films not on greatest films list) from https://www.themoviedb.org
 - Research YOLO object detection to find the simplest neural network model that gets somewhat accurate classification of genre and or/ prediction of a movie being in the great films list
 
-Data:
+Data acquired:
 - 1200 greatest films movie posters (already scraped and in this repository in ```greatest-films-posters``` directory)
 - 30000 movie posters - I have image URLs - need to download to disk (list of URLs in 'poster_path' column of ```movies-metadata.csv```)
 - movie metadata, with dummy variables for each genre (genre columns in ```all-films.csv```)

@@ -109,7 +109,9 @@ https://github.com/pjreddie/darknet/wiki/YOLO:-Real-Time-Object-Detection and  h
 
 > Our model has several advantages over classifier-based systems. It looks at the whole image at test time so its predictions are informed by global context in the image. It also makes predictions with a single network evaluation unlike systems like R-CNN which require thousands for a single image. This makes it extremely fast, more than 1000x faster than R-CNN and 100x faster than Fast R-CNN. See our paper for more details on the full system.
 
-Do certain objects on movie posters indicate certain movie genres?
+Research Questions
+- Do certain objects on movie posters indicate certain movie genres?
+- Do certain objects on movies posters for 'greatest films' differ from objects on other 'non-great' movies
 
 Next steps:
 - Use existing list of 30,000 movie poster URLs (example: https://image.tmdb.org/t/p/w440_and_h660_bestv2/6ksm1sjKMFLbO7UY2i6G1ju9SML.jpg) to save to file the jpgs of movie posters (for films not on greatest films list) from https://www.themoviedb.org

@@ -116,6 +116,6 @@ Next steps:
 - Research YOLO object detection to find the simplest neural network model that gets somewhat accurate classification of genre and or/ prediction of a movie being in the great films list
 
 Data:
--1200 greatest films movie posters (already scraped and in this repository in ```greatest-films-posters``` directory)
--30000 movie posters - I have image URLs - need to download to disk (list of URLs in 'poster_path' column of ```movies-metadata.csv```)
--movie metadata, with dummy variables for each genre (genre columns in ```all-films.csv```)
+- 1200 greatest films movie posters (already scraped and in this repository in ```greatest-films-posters``` directory)
+- 30000 movie posters - I have image URLs - need to download to disk (list of URLs in 'poster_path' column of ```movies-metadata.csv```)
+- movie metadata, with dummy variables for each genre (genre columns in ```all-films.csv```)
